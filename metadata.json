@@ -1,0 +1,5 @@
+{
+  "name": "StickerForge AI",
+  "description": "Generate complete Telegram sticker packs from a single reference image using AI.",
+  "requestFramePermissions": []
+}
